@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "zygisk-il2cpp-hook"
+    magiskModuleId = "zygisk-il2cpp-hook"
+    moduleName = "Zygisk Il2cpp Hook"
+    moduleAuthor = "Kinocrp"
+    moduleDescription = "Il2Cpp Zygisk Hook For Unity Games."
+    moduleVersion = "v1.0.0"
+    moduleVersionCode = 1
+}
