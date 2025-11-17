@@ -20,6 +20,7 @@
 #define DO_API(r, n, p) r (*n) p
 
 #include "il2cpp-api-functions.h"
+#include "dobby.h"
 
 #undef DO_API
 
